@@ -3,7 +3,7 @@ Bases para ciencia de datos y computación cientı́fica
 
 Facultad de Física, Universidad de la Habana
 
-Curso 2023
+Segundo semestre-Curso 2023
 
 Python es un lenguaje de programación que goza de gran popularidad en el mundo académico. Su sencillez y eficiencia para el análisis de datos y la computación científica son elementos fundamentales en el quehacer diario de un científico contemporáneo. La versatilidad de Python, sumada a la extensa variedad de bibliotecas disponibles, lo posicionan como una herramienta óptima para el cálculo numérico, así como para la manipulación y visualización de datos. Estas características son esenciales en áreas como la inteligencia artificial y las simulaciones computacionales de alta fidelidad, campos que actualmente cuentan con una alta demanda.
 
