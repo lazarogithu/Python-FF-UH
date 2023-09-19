@@ -11,9 +11,9 @@ Pasos para usar git en Linux y Windows hasta el punto de clonar y actualizar un 
    git config --global user.name "Your Name"
    git config --global user.email "youremail@domain.com"
    ```
-3. **Clona un repositorio**: Usa el comando `git clone` seguido de la URL del repositorio que deseas clonar. Por ejemplo:
+3. **Clona un repositorio**: Usa el comando `git clone` seguido de la URL del repositorio que deseas clonar. Por ejemplo este curso:
    ```
-   git clone https://github.com/username/repository.git
+   git clone [https://github.com/username/repository.git](https://github.com/lazarogithu/Python-FF-UH.git)
    ```
 4. **Actualiza tu repositorio**: Puedes obtener las últimas actualizaciones del repositorio remoto con el comando `git pull`.
 
