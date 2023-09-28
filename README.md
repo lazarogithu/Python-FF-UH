@@ -17,8 +17,8 @@ El objetivo principal de este curso es brindar un conocimiento sólido de Python
 | 3 | CP 1 |
 |  | Tema 2: Estructuras de datos. Funciones. |
 | 4 | Estructuras de datos y secuencias. Tuplas. Listas. Funciones de secuencia incorporadas |
-| 5 | Diccionarios. Conjuntos. Comprehensions |
-| 6 | Funciones |
+| 5 | Funciones. Programación funcional|
+| 6 | Diccionarios. Conjuntos. Comprehensions |
 | 7 | CP 2 |
 |  | Tema 3: Fundamentos de NumPy: Matrices y Computacion Vectorial. |
 | 8 | Introducción a NumPy. Matrices multidimensionales. Aritmética con matrices de NumPy |
